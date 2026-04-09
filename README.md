@@ -1,24 +1,38 @@
 ## 👋 Hi, I'm Henri-Claassen
 
+
 🎓Data Science Student at Belgium Campus Itversity
+
 
 🌱 Passionate about AI, IoT, and Sustainable Tech 
 
+
 💼 Seeking internship opportunities
 
+
 🚀 Skills
+  
   Programming: Python, C#, Html, JavaScript, Css, React, SQL
+  
   Tools: Github, Power Apps, Power BI, Arduino, SharePoint, Power Automate, Excel
+  
   Technical Expertise: Linear programming, statistical analysis, IoT hardware/software integration
 
+
 🔭 I’m currently working on
+  
   An international project with Pennsylavania state University (PSU) to build a smart farm using IoT, AI, and React
+
     
 🌱 I’m currently learning
+  
   Python for ai chicken detection and machine learing.
+  
   React to build a website for the PSU project.
+
   
 📂 Projects
+  
   Customer-Registration Project [https://github.com/Henri-Claassen/Customer-Registration]
   
   EasyBuy SQL Project [https://github.com/Henri-Claassen/EasyBuy-Database]
