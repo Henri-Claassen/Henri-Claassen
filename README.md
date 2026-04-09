@@ -20,9 +20,14 @@
   
 📂 Projects
   Customer-Registration Project [https://github.com/Henri-Claassen/Customer-Registration]
+  
   EasyBuy SQL Project [https://github.com/Henri-Claassen/EasyBuy-Database]
+  
   Fitness Website [https://github.com/Henri-Claassen/Fitness-Website]
+  
   Ringo Website [https://github.com/Henri-Claassen/Ringo-Website]
+  
   Vet_Clinic Project [https://github.com/Henri-Claassen/Vet_Clinic_Project]
+  
   Superhero-Mangement Project [https://github.com/Henri-Claassen/Superhero-Management-Application]
   
