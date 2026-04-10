@@ -1,49 +1,49 @@
-## 👋 Hi, I'm Henri-Claassen
+## 👋 Hi, I'm Henri Claassen
 
 
 **🎓Data Science Student at Belgium Campus Itversity**
 
 
-🌱 Passionate about AI, IoT, and Sustainable Tech 
+**🌱 Passionate about AI, IoT, and Sustainable Tech** 
 
 
-💼 Seeking internship opportunities
+**💼 Seeking internship opportunities**
 
 
-🚀 Skills
+**🚀 Skills**
   
-  Programming: Python, C#, Html, JavaScript, Css, React, SQL
+> Programming: Python, C#, Html, JavaScript, Css, React, SQL
   
-  Tools: Github, Power Apps, Power BI, Arduino, SharePoint, Power Automate, Excel
+>  Tools: Github, Power Apps, Power BI, Arduino, SharePoint, Power Automate, Excel
   
-  Technical Expertise: Linear programming, statistical analysis, IoT hardware/software integration
+>  Technical Expertise: Linear programming, statistical analysis, IoT hardware/software integration
 
 
-🔭 I’m currently working on
+**🔭 I’m currently working on**
   
-  An international project with Pennsylavania state University (PSU) to build a smart farm using IoT, AI, and React
+>  An international project with Pennsylavania state University (PSU) to build a smart farm using IoT, AI, and React
 
     
-🌱 I’m currently learning
+**🌱 I’m currently learning**
   
-  Python for ai chicken detection and machine learing.
+> Python for ai chicken detection and machine learing.
   
-  React to build a website for the PSU project.
+>  React to build a website for the PSU project.
 
   
-📂 Projects
+**📂 Projects**
   
-  Customer-Registration Project [https://github.com/Henri-Claassen/Customer-Registration]
+>  Customer-Registration Project [https://github.com/Henri-Claassen/Customer-Registration]
   
-  EasyBuy SQL Project [https://github.com/Henri-Claassen/EasyBuy-Database]
+>  EasyBuy SQL Project [https://github.com/Henri-Claassen/EasyBuy-Database]
   
-  Fitness Website [https://github.com/Henri-Claassen/Fitness-Website]
+>  Fitness Website [https://github.com/Henri-Claassen/Fitness-Website]
   
-  Ringo Website [https://github.com/Henri-Claassen/Ringo-Website]
+>  Ringo Website [https://github.com/Henri-Claassen/Ringo-Website]
   
-  Vet_Clinic Project [https://github.com/Henri-Claassen/Vet_Clinic_Project]
+>  Vet_Clinic Project [https://github.com/Henri-Claassen/Vet_Clinic_Project]
   
-  Superhero-Mangement Project [https://github.com/Henri-Claassen/Superhero-Management-Application]
+>  Superhero-Mangement Project [https://github.com/Henri-Claassen/Superhero-Management-Application]
 
-  Software-Testing Project [https://github.com/Henri-Claassen/Software-Testing]
+>  Software-Testing Project [https://github.com/Henri-Claassen/Software-Testing]
   
