@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Henri-Claassen
 
 
-🎓Data Science Student at Belgium Campus Itversity
+**🎓Data Science Student at Belgium Campus Itversity**
 
 
 🌱 Passionate about AI, IoT, and Sustainable Tech 
