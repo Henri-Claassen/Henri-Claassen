@@ -46,4 +46,8 @@
 >  Superhero-Mangement Project [https://github.com/Henri-Claassen/Superhero-Management-Application]
 
 >  Software-Testing Project [https://github.com/Henri-Claassen/Software-Testing]
+
+> Mini-Smart-Farm Project [https://github.com/Henri-Claassen/Mini-Smart-Farm]
+
+> Predator-Detection Project [https://github.com/Henri-Claassen/Predator-Detection]
   
